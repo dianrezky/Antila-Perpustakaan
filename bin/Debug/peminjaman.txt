@@ -1,0 +1,4 @@
+        kimia         dian
+       fisika         dian
+      biologi         hafi
+       fisika         dian

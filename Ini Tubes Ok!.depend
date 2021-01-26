@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1554714183 source:d:\f\program\code block\tugas\ini tubes ok!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1554436665 source:e:\ini tubes ok!\ini tubes ok!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+
+1554713374 source:d:\f\program\code block\tugas\ini tubes ok!\fungsi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1554713374 source:e:\ini tubes ok!\fungsi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555138662 source:e:\ini tubes ok!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555256227 source:d:\f\program\code block\tugas\ini tubes ok!\ini tubes ok!(1)\ini tubes ok!\fungsi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555398587 source:d:\f\program\code block\tugas\ini tubes ok!\ini tubes ok!(1)\ini tubes ok!\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555400567 source:d:\f\program\code block\tugas\ini tubes ok!\ini tubes ok!(1)\ini tubes ok!\menupengunjung.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555256560 source:d:\f\program\code block\tugas\ini tubes ok!\ini tubes ok!(1)\ini tubes ok!\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555256560 source:e:\ini tubes ok!(1)\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555953744 source:e:\ini tubes ok!(1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555953926 source:e:\ini tubes ok!(1)\menupengunjung.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555989208 source:e:\ini tubes ok!(1)(2)\ini tubes ok!(1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555990017 source:e:\ini tubes ok!(1)(2)\ini tubes ok!(1)\menupengunjung.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555989368 source:e:\ini tubes ok!(1)(2)\ini tubes ok!(1)\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555989368 source:c:\users\asus\onedrive - telkom university\project\tubes alpro perpus bahasa c\ini tubes ok!(1)\loading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1555989208 source:c:\users\asus\onedrive - telkom university\project\tubes alpro perpus bahasa c\ini tubes ok!(1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1555990017 source:c:\users\asus\onedrive - telkom university\project\tubes alpro perpus bahasa c\ini tubes ok!(1)\menupengunjung.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
